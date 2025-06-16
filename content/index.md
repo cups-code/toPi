@@ -8,5 +8,7 @@ description: The index of toPi.
 - This is not intended to be a database for plagiarism, but simply for inspiration and knowledge taking.
 # Current Knowledge-base
 - All current work is stored in the *y10* directory.
-- There are two indexes that have been 
-- Other subjects will be coming soon. Science is the next import.
+- There are two indexes that have been established well.
+	- Science - [[Chemistry Index (Y10-2025-T2)]]
+	- Mathematics - [[Probability Index (Y10-2025-T2)]]
+- Other subjects will be coming soon when they are finalised and ready for publishing.
