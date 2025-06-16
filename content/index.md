@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: INDEX
+description: The index of toPi.
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Welcome to toPi
+- This is the database containing all of cups' academic lecture notes and files.
+- Please refer to the [[LICENSE]] when handling with these files.
+- This is not intended to be a database for plagiarism, but simply for inspiration and knowledge taking.
