@@ -5,7 +5,7 @@ lesson: 4
 math-topic: Topic 3 - Probability (Chapter 8, Y10)
 math-type: Path
 created: 2025-06-16
-published: 
+published: 2025-06-16
 title: L04 - Formal Notation For Conditional Probability
 description: A conceptual document about conditional probability and its formal notation.
 ---
@@ -20,13 +20,12 @@ description: A conceptual document about conditional probability and its formal 
 > 1. Probability of A given B
 > 
 > $$P(A|B) = \frac{n(A \cap B)}{n(B)}$$
+> $$= \frac{P(A \cap B)}{P(B)}$$
 > 
-> 	$$= \frac{P(A \cap B)}{P(B)}$$
 > 2. Probability of B given A
 > 
 > $$P(B|A) = \frac{n(A \cap B)}{n(A)}$$
-> 
-> 	$$= \frac{P(A \cap B)}{P(A)}$$
+> $$= \frac{P(A \cap B)}{P(A)}$$
 ## Examples
 > [!Example] Example 1
 > 20 people, 15 are wearing *jackets*, 10 are wearing *hats*.
