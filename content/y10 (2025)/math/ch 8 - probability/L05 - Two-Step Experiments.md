@@ -6,6 +6,10 @@ math-topic: Topic 3 - Probability (Chapter 8, Y10)
 math-type: Core
 date: 2025-06-17
 ---
+
+> [!danger] Work In Progress
+> The contents of this concept has not been created OR replicated fully.
+
 # Two-Step Experiments
 ## Information
 - A two-step experiment can be visualised using a **tree diagram**. You can find an example on [OneNote](https://schoolsnsw-my.sharepoint.com/personal/alexis_kim3_det_nsw_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B1b95912f-87e8-4c02-9d27-f9d0c0905697%7D&action=view&wd=target%28_Class+Notes%2FCh8+Probability.one%7Ce7ba36f6-f374-ed49-bd14-1bd233c9de21%2FFor+my+Future+Forgetful+Self+%28FFFS%5C%29%7C0bbac7e8-8c38-c047-8003-a5fcf8198802%2F%29&wdorigin=703&wdpartid=%7B209cc0fa-e59c-4747-b561-b4fd7bfce1fe%7D%7B1%7D&wdsectionfileid=1b32d6b0-f581-4212-b759-954d39ecea48).
