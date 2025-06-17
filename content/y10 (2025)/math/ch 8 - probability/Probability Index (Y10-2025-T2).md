@@ -6,7 +6,6 @@ Below is an index of notes associated with notes about probability. Each note is
 # Advanced Concepts
 - [[L03 - Mutually and Non-Mutually Exclusive Events]]
 - [[L04 - Formal Notation For Conditional Probability]]
-# Additional Information (Coming Soon)
+# Additional Information
 - [[L05 - Two-Step Experiments]]
-- [[L06 - Using Tree Diagrams]]
-- [[L07 - Independent and Dependent Events]]
+- [[L06 - Independent and Dependent Events]]
