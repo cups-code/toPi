@@ -29,10 +29,11 @@ description: A conceptual document about Mutually & Non-Mutually Exclusive Event
 - Non-mutually exclusive events mean that both outcomes are *not* exclusive to each other, meaning there is no overlap.
 - $A \cap B \neq \emptyset$
 
-> [!example] Example of Non-Mutually Exclusive Events
-> - Let's take the sample space of a standard deck of 52 cards (which means excluding jokers).
-> 	- If outcome A = card of hearts and
-> 	- outcome B = ace card, 
+> [!example] Example of Mutually Exclusive Events
+> - Let's take the sample space of rolling a standard six-sided die.
+> 	- If outcome A = odd numbers and
+> 	- outcome B = even numbers, 
+> 	- then $A \cap B = \{\}$ (mutually exclusive, see the [[#Definition of Mutually Exclusive Events|definition]].)
 
 ## The Addition Rule
 
