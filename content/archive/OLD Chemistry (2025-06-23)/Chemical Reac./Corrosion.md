@@ -8,7 +8,7 @@ date: 2025-05-30
 ## What is corrosion?
 - Corrosion is a process of formation of the compound of pure metal by the chemical reaction between the metallic surface and its environment. 
 	- It is an oxidation process which means it causes the lost of metal.
-- This reaction degrades metals leading to reduction in their thickness and also the loss of important properties such as malleability, ductility, and electrical conductivity.
+- This reaction degrades metallic produces leading to reduction in their thickness and also the loss of important properties such as malleability, ductility, and electrical conductivity.
 - Here are some examples of corrosion.
 	- The rusting of iron which becomes oxide hematite.
 	- The tarnishing of silver which is converted to silver sulfide.

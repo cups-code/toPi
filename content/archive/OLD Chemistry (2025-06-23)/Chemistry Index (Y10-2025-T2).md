@@ -1,41 +1,31 @@
 # Chemistry Index
 Below is an index of notes associated with notes about chemistry. Each note is designed to be a concept, with some being a compilation of concepts through lecture notes.
+
 ## Chemical Reactions
-- [[Acid-Metal Reactions]]
 - [[Acidic Reactions]]
-- [[Common Reactions]]
-- [[Reactions Involving Oxygen#Combustion Reactions|Combustion Reactions]] (!)
-- [[Combustion with Hydrocarbons]]
-- [[Common Acid Reactions]]
-- [[Corrosion]]
-- [[Acids and Bases#Neutralisation|Neutralisation Reactions]] (!)
+- [[Combustion Reactions]]
+- [[Acids and Bases#Neutralisation|Neutralisation Reactions]]
 - [[Precipitation Reactions]]
 - [[Redox Reactions]]
 - [[Reactions Involving Oxygen]]
+- [[Corrosion]]
+## Electronic Configuration
+- [[Basics of Electronic Configuration]]
 ## Experiments
 - [[Investigating Acids and Bases]]
 - [[Investigating Acid-Carbonate Reactions]]
-- [[Investigating Precipitation Reactions]]
-## Field Notes
-- [[SCI-2025-06-17]]
-- [[SCI-2025-06-27]]
+- [[Investigating Corrosion]]
 ## Foundation
 - [[Acids and Bases]]
 - [[Balancing Chemical Equations]]
-- [[Basics of Electronic Configuration]]
 - [[Bonding]]
 - [[Digestion, Respiration, and Combustion]]
-- [[Equation Basics]]
-- @ [[Oxidation and Reduction]]
-- ! [[Particle Theory]]
-- [[Physical and Chemical Changes]]
-- [[The Solubility Rules]]
-### Ions, Compounds, and Molecules
+- [[Oxidation and Reduction]]
+- [[Particle Theory]]
+## Ions, Compounds, and Molecules
 - [[Ions]]
 - [[Compounds]]
 	- [[Compounds#Ionic Compounds|Ionic Compounds]]
 	- [[Bonding#Covalent Bonds|Covalent Bonds]]
 	- [[Bonding#Ionic Bonding|Ionic Bonds]]
 - [[Molecules]]
-## Research (Tasks)
-- [[Acid Rain]]
