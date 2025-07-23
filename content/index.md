@@ -9,7 +9,7 @@ description: The index of toPi.
 # Current Knowledge-base
 - All current work is stored in the *y10* directory.
 - There are two indexes that have been established well.
-	- Science - [[Chemistry Index (Y10-2025-T2)]]
+	- Science - [[y10 (2025)/science/Chemistry/Chemistry Index (Y10-2025-T2)|Chemistry Index (Y10-2025-T2)]]
 	- Mathematics - [[Probability Index (Y10-2025-T2)]]
 - Other subjects will be coming soon when they are finalised and ready for publishing.
 - The database here may not be as up-to-date as the official, private "atomic" database. Sorry if you are looking for the latest notes, you will probably not find them here (until they're published).
