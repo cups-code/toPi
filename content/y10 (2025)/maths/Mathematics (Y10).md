@@ -31,3 +31,6 @@ Welcome to the Mathematics master file. In here, you will find key indexes as we
 - [[Quadratics Index|Quadratics]]
 - [[Advanced Algebra Index|Advanced Algebra]]
 ## Review
+
+> [!Fail] Unavailable
+> - This section is a work-in-progress.
