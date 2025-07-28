@@ -4,10 +4,7 @@ tags:
 lesson: 4
 math-topic: Topic 3 - Probability (Chapter 8, Y10)
 math-type: Path
-created: 2025-06-16
-published: 2025-06-16
-title: L04 - Formal Notation For Conditional Probability
-description: A conceptual document about conditional probability and its formal notation.
+date: 2025-06-16
 ---
 # Formal Notation For Conditional Probability
 ## Basic Definition
@@ -18,27 +15,21 @@ description: A conceptual document about conditional probability and its formal 
 ## Formula
 > [!info] Conditional Probability in Formal (Set) Notation
 > 1. Probability of A given B
-> 
 > $$P(A|B) = \frac{n(A \cap B)}{n(B)}$$
-> $$= \frac{P(A \cap B)}{P(B)}$$
-> 
+> 	$$= \frac{P(A \cap B)}{P(B)}$$
 > 2. Probability of B given A
-> 
 > $$P(B|A) = \frac{n(A \cap B)}{n(A)}$$
-> $$= \frac{P(A \cap B)}{P(A)}$$
+> 	$$= \frac{P(A \cap B)}{P(A)}$$
 ## Examples
 > [!Example] Example 1
 > 20 people, 15 are wearing *jackets*, 10 are wearing *hats*.
 > 1. How many are wearing both?
-> 
 > 	- 15 (J) + 10 (H) = 25
 > 	- 25 - 20 = 5 <- $J \cap H$
 > 2. Find $P(H|J)$.
-> 
 > 	- = $\frac{5}{15}$
 > 	- = $\frac{1}{3}$
 > 3. Find $P(J|H)$.
-> 
 > 	- = $\frac{5}{10}$
 > 	- = $\frac{1}{2}$
 
@@ -48,16 +39,11 @@ description: A conceptual document about conditional probability and its formal 
 > [!Example] Example 3
 > In a group of *23 movie goers*, *13 bought popcorn*, *15 bought cola*, and *9 bought both*.
 > 1. $P(P|C)$
-> 
 > 	- $\frac{9}{15}$
 > 	- $\frac{3}{5}$
-> 
 > 2. $P(C|P)$
-> 
 > 	- $\frac{9}{13}$
-> 
 > 3. $P(C|M)$ ($= P(C)$)
-> 
 > 	- $\frac{15}{23}$
 > 	
 > Two-way tables and venn diagrams are not required for this example, but can be very useful in terms of reasoning and proving the question.

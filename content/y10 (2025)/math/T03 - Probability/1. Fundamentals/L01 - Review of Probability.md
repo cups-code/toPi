@@ -4,10 +4,7 @@ tags:
 lesson: 1
 math-topic: Topic 3 - Probability (Chapter 8, Y10)
 math-type: Core
-created: 2025-05-20
-published: 2025-06-16
-title: L01 - Review of Probability
-description: This is a core review of probability.
+date: 2025-05-20
 ---
 # Review of Probability (Ex 8A)
 *Review of Probability (Consolidating)*

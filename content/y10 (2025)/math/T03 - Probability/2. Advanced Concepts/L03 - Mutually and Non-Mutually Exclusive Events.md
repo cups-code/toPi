@@ -4,10 +4,7 @@ tags:
 lesson: 3
 math-topic: Topic 3 - Probability (Chapter 8, Y10)
 math-type: Path
-created: 2025-06-03
-published: 2025-06-16
-title: L03 - Mutually and Non-Mutually Exclusive Events
-description: A conceptual document about Mutually & Non-Mutually Exclusive Events.
+date: 2025-06-03
 ---
 # Mutually and Non-Mutually Exclusive Events
 ## Learning Intentions
@@ -29,11 +26,11 @@ description: A conceptual document about Mutually & Non-Mutually Exclusive Event
 - Non-mutually exclusive events mean that both outcomes are *not* exclusive to each other, meaning there is no overlap.
 - $A \cap B \neq \emptyset$
 
-> [!example] Example of Mutually Exclusive Events
-> - Let's take the sample space of rolling a standard six-sided die.
-> 	- If outcome A = odd numbers and
-> 	- outcome B = even numbers, 
-> 	- then $A \cap B = \{\}$ (mutually exclusive, see the [[#Definition of Mutually Exclusive Events|definition]].)
+> [!example] Example of Non-Mutually Exclusive Events
+> - Let's take the sample space of a standard deck of 52 cards (which means excluding jokers).
+> 	- If outcome A = card of hearts and
+> 	- outcome B = ace card, 
+> 	- $A \cup B$ = { ace of hearts } $\neq\emptyset$
 
 ## The Addition Rule
 
@@ -48,9 +45,7 @@ description: A conceptual document about Mutually & Non-Mutually Exclusive Event
 > 	- B = jack card
 > - $P(A) = \frac{1}{4}$ , $P(B) = \frac{1}{13}$, $P(A \cap B) = \frac{1}{52}$
 > - Apply the [[#The Addition Rule|addition rule]] to find $P(A \cup B)$.
-> 
 > $$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
-> 
 > $$P(A \cup B) = \frac{1}{4} + \frac{1}{13} - \frac{1}{52} = \frac{13+4-1}{52}$$
 
 > [!example] Standard Application of The Addition Rule (2)

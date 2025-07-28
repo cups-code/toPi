@@ -4,14 +4,10 @@ tags:
 lesson: 2
 math-topic: Topic 3 - Probability (Chapter 8, Y10)
 math-type: Path
-created: 2025-05-29
-published: 2025-06-16
-title: L02 - Set Notation (aka Formal Notation)
-description: A conceptual document about Set Notation.
+date: 2025-05-29
 ---
 # Set Notation (Ex 8B)
 *Formal notation for Venn diagrams and two-way tables*
-
 - A set is a collection or group of elements that can include numbers, letters, or other objects.
 - u, $\omega$, or S is called the sample space or universal set. (See [[L01 - Review of Probability|the last lesson]] for more information about the Sample Space.)
 	- set containing everything relevant to the question
