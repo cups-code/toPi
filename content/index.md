@@ -18,6 +18,9 @@ Here are the list of currently maintained and/or fully developed indexes.
 	- Some notes may be incomplete, but are suitable for study and review.
 	- This index is **mostly developed**.
 ### Math
+- [[Mathematics (Y10)]]
+	- This is the master file that contains all the existing *and* planned/drafted indexes.
+	- This file is **currently developing**.
 - [[Probability Index (Y10-2025-T2)]]
 	- This index includes notes that are covered in Chapter 8 in the Cambridge Y10 Textbook (version N/A).
 	- Some links may be private.
