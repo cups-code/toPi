@@ -4,6 +4,8 @@ Below is an index of notes associated with notes about the third topic of Englis
 - [[1. Moral Dillemmas (Intro)]]
 - [[2. Context and Concepts]]
 ## Diving Into The Play
-N/A
+- [[3. Act 1, Scene 3]]
+- [[4. Act 1, Scene 5]]
+- [[5. Act 1, Scene 7]]
 ## Critically Thinking
 N/A
