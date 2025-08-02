@@ -54,8 +54,6 @@ export const defaultContentPageLayout: PageLayout = {
         categoryId: "DIC_kwDOO8gUYc4Ctr7D",
         // from data-lang
         lang: "en",
-        lightTheme: "catppucin_latte",
-        darkTheme: "catppuccin_frappe",
       },
     }),
   ],
